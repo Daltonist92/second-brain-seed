@@ -1,0 +1,12 @@
+# OS / edytory
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# sekrety — NIGDY do repo (privacy: dane wrażliwe trzymaj poza repo)
+.env
+*.key
+*.pem
+secrets/
