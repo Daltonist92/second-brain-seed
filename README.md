@@ -5,6 +5,8 @@ Szkielet startowy **„second brainu" dla agenta** (Claude Code / dowolny agent 
 > To **seed**, nie gotowy produkt. Daje żywy szkielet + reguły. Resztę zapełniasz sam — używając.
 
 ## ⚡ Jak zacząć (clone → make it yours)
+> 📘 **Pełny manual krok-po-kroku** (instalacja VS Code + Claude Code + przepięcie repo na własne + pierwsze komendy) → **[`GETTING-STARTED.md`](GETTING-STARTED.md)**. Poniżej skrót.
+
 1. **Sklonuj** to repo.
 2. **Odepnij od origin i podepnij swoje PRYWATNE repo:**
    ```bash
@@ -28,6 +30,7 @@ To **nie notatki dla Ciebie — środowisko pracy dla agenta.** Pisz pod agenta:
 | `projects/` · `areas/` | Moduły (jeden temat = jeden plik). |
 | `docs/scout-lenses.md` | Soczewki audytu spójności. |
 | `docs/cadence.md` | Kalendarz cyklicznych zadań agenta. |
+| `.claude/settings.json` | Uprawnienia agenta (**allow / ask / deny**) — sensowne defaulty bezpieczeństwa. |
 
 ## 🔁 Core loop
 - **Capture → Triage → Route:** wszystko → `INBOX` → segregujesz do modułów / NOW / archiwum. **Nic nie zostaje luzem.**
