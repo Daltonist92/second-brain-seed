@@ -41,3 +41,5 @@ Start chudy, rośnij synapsami. **Nie buduj systemu — używaj go i dorastaj.**
 
 ---
 _Pochodzenie: destylat działającego AIOS. Wzorce częściowo publiczne (agent-first, PARA, Karpathy „LLM wiki", Cline memory-bank). Bierz, przerabiaj, uczyń swoim._
+
+📄 **Licencja:** [MIT](LICENSE) — rób z tym, co chcesz.
