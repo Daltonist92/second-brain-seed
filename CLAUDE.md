@@ -2,6 +2,8 @@
 
 Ten plik czytasz na starcie **KAŻDEJ** sesji. Trzymamy go **LEAN** — stabilna esencja; wolumen / szczegóły / historia → moduły + odnośnik. Struktura żyje w [`INDEX.md`](INDEX.md) (MAPA) i [`STRUCTURE.md`](STRUCTURE.md) — **czytaj je, nie zgaduj.**
 
+> 🆕 **ŚWIEŻY SEED? (onboarding)** Jeśli sekcja „Kim jestem" niżej ma jeszcze placeholdery `<...>` — system NIE jest skonfigurowany. **Zaproponuj userowi:** _„Wygląda na świeży second brain — chcesz, żebym Cię przeprowadził przez setup?"_ → wykonaj runbook [`SETUP.md`](SETUP.md) (przepięcie repo · wywiad → wypełnienie tego pliku · pierwszy moduł). Po onboardingu **usuń ten blok** i placeholdery.
+
 ---
 
 ## Kim jestem (esencja)
