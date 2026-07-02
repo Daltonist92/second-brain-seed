@@ -30,6 +30,9 @@ To **nie notatki dla Ciebie — środowisko pracy dla agenta.** Pisz pod agenta:
 | `projects/` · `areas/` | Moduły (jeden temat = jeden plik). |
 | `docs/scout-lenses.md` | Soczewki audytu spójności. |
 | `docs/cadence.md` | Kalendarz cyklicznych zadań agenta. |
+| `docs/decisions.md` | Log decyzji z uzasadnieniem (ADR-lite) — „dlaczego tak" przeżywa miesiące. |
+| `docs/growth-path.md` | Mapa dorastania systemu — co dodać i **po jakim sygnale** (nie na zapas). |
+| `archive/` · `raw/` | Domknięte tematy · surowiec append-only (deep-research, debriefy). |
 | `.claude/settings.json` | Uprawnienia agenta (**allow / ask / deny**) — sensowne defaulty bezpieczeństwa. |
 
 ## 🔁 Core loop
@@ -40,7 +43,7 @@ To **nie notatki dla Ciebie — środowisko pracy dla agenta.** Pisz pod agenta:
 Start chudy, rośnij synapsami. **Nie buduj systemu — używaj go i dorastaj.** Kaizen: friction → napraw albo zapisz. Native-first: zanim zbudujesz custom, sprawdź, czy narzędzie już tego nie daje.
 
 ## 📌 Kolejność wdrożenia (NIE wszystko naraz)
-`CLAUDE.md` + `INDEX.md` + `INBOX.md` + git → używaj tydzień → dodaj Handoff + rytuał → dopiero potem Scout / cadence / warstwa `raw/`. Inaczej zbudujesz system zamiast go używać (klasyczna pułapka).
+`CLAUDE.md` + `INDEX.md` + `INBOX.md` + git → używaj tydzień → dodaj Handoff + rytuał → dopiero potem Scout / cadence / warstwa `raw/`. Inaczej zbudujesz system zamiast go używać (klasyczna pułapka). **Pełna mapa etapów + sygnały „kiedy czas" → [`docs/growth-path.md`](docs/growth-path.md).**
 
 ---
 _Pochodzenie: destylat działającego AIOS. Wzorce częściowo publiczne (agent-first, PARA, Karpathy „LLM wiki", Cline memory-bank). Bierz, przerabiaj, uczyń swoim._

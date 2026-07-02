@@ -30,6 +30,8 @@ _Nowy temat = nowy plik + jedna linia tutaj. Żaden plik nie puchnie; agent zaws
 **Docs**
 - [`docs/scout-lenses.md`](docs/scout-lenses.md) — soczewki audytu spójności
 - [`docs/cadence.md`](docs/cadence.md) — cykliczne zadania agenta
+- [`docs/decisions.md`](docs/decisions.md) — log decyzji z uzasadnieniem (dlaczego tak)
+- [`docs/growth-path.md`](docs/growth-path.md) — co dodawać, gdy system rośnie (sygnały, nie zapas)
 
 ---
 
